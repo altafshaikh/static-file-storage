@@ -1,0 +1,6 @@
+[
+  {
+    "tutorials": ["https://blog.teachmebro.com/series/django-fundamentals","https://blog.teachmebro.com/series/nodejs-for-beginners"],
+    "notes": ["https://altafshaikh.gitbook.io/api-design/","https://altafshaikh.gitbook.io/caching-and-cdn/","https://altafshaikh.gitbook.io/design-patterns-and-principles/"]
+  }
+]
